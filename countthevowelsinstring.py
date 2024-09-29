@@ -1,4 +1,3 @@
-# without using function
 a=["sanjay","yuvasri","vijayalakshmi"]
 m=0
 v="aeiouAEIOU"
